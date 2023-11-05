@@ -1,0 +1,3 @@
+[submodule "blpconverter.html"]
+	path = blpconverter
+	url = https://github.com/bloerwald/blpconverter.html.git
